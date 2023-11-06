@@ -11,4 +11,3 @@ export default interface Fighter {
   levelUp(): void,
   receiveDamage(attackPoints: number): number,
 }
-
